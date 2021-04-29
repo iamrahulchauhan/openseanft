@@ -1,0 +1,10 @@
+# openseanft
+
+gold_metadata.json ipfs cid: QmP5UWFnW2sJsSL37djNuGWjVb5b7jih6yWc3HsqF41P8g
+
+silver image ipfs cid:Qmd1QtjqEbcfqgp9HPFF6EDXT2XJZY7HUot4gCo8kvJAsM
+
+gold image ipfs cid:QmbTpDXtY123unAbEJo7DwYizFBgQhYXddGBUZebLnkj9k
+
+contract is deployed over rinkeby testnet
+contract address:0x50172Ffb669FDf8671cf157f90879ebc406e04ba
