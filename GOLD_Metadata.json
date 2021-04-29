@@ -1,0 +1,13 @@
+"1"{
+    "name": "GOLD",
+    "description": "most popular precious metal",
+    "image": "ipfs://QmbTpDXtY123unAbEJo7DwYizFBgQhYXddGBUZebLnkj9k/GOLD.jpg,
+    "strength": 75
+}
+
+"2"{
+    "name": "SILVER",
+    "description": "Another most popular precious metal",
+    "image": "ipfs://Qmd1QtjqEbcfqgp9HPFF6EDXT2XJZY7HUot4gCo8kvJAsM/SILVER.jpg",
+    "strength": 75
+}
